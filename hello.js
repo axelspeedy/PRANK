@@ -1,4 +1,4 @@
-<script>
+
 background(0, 0, 0);
 var type = 2; // Change this to 2 if you don't want the first part
 var x = 350;
@@ -37,4 +37,3 @@ var draw = function() {
         txt = "Done";
     }
 };
-</script>
